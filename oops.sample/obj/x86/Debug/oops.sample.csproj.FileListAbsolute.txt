@@ -1,0 +1,13 @@
+C:\Projects\oops.sample\oops.sample\obj\x86\Debug\ChildOne.baml
+C:\Projects\oops.sample\oops.sample\obj\x86\Debug\MainWindow.baml
+C:\Projects\oops.sample\oops.sample\obj\x86\Debug\ChildOne.g.cs
+C:\Projects\oops.sample\oops.sample\obj\x86\Debug\MainWindow.g.cs
+C:\Projects\oops.sample\oops.sample\obj\x86\Debug\App.g.cs
+C:\Projects\oops.sample\oops.sample\obj\x86\Debug\oops.sample_MarkupCompile.cache
+C:\Projects\oops.sample\oops.sample\obj\x86\Debug\oops.sample.g.resources
+C:\Projects\oops.sample\oops.sample\obj\x86\Debug\oops.sample.Properties.Resources.resources
+C:\Projects\oops.sample\oops.sample\obj\x86\Debug\oops.sample.csproj.GenerateResource.Cache
+C:\Projects\oops.sample\oops.sample\bin\Debug\oops.sample.exe
+C:\Projects\oops.sample\oops.sample\bin\Debug\oops.sample.pdb
+C:\Projects\oops.sample\oops.sample\obj\x86\Debug\oops.sample.exe
+C:\Projects\oops.sample\oops.sample\obj\x86\Debug\oops.sample.pdb
