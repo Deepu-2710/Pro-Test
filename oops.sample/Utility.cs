@@ -7,7 +7,7 @@ namespace oops.sample
 {
     public class Utility
     {
-        private string myName=string.Empty;
+        private string myName="deepu";
         private Utility()
         {
         }
